@@ -20,6 +20,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package":"com.company.playit",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
